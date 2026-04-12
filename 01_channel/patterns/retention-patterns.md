@@ -32,8 +32,17 @@ This page stores reusable middle and ending structures that improve watchability
 ## Pattern 4. Ending residue
 
 - a strong ending changes how the opening is remembered
-- the best endings either compress the hidden mechanism in one line or open the next question cleanly
+- the best endings either force a concrete unresolved question, name the real tradeoff, or open the next question cleanly
+- do not use poetic compression as a substitute for an actual conclusion
+- if the viewer could say `좋은 말이긴 한데 그래서 뭐가 핵심인데`, the ending is not finished
+
+## Pattern 5. Structural follow-through
+
+- when a structure-heavy topic claims a country, company, or group is being harmed, do not stop at damage statistics
+- show who the main actors are, how the mechanism works, what each side is doing in response, and who pays first on the ground
+- separate interested-party claims from verified market or policy facts
 
 ## Provenance
 
 - seeded during benchmark translation and preserved as engine law during bootstrap cleanup
+- expanded by the `랩그로운-다이아몬드의-역습` results-clone promotion pass

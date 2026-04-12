@@ -24,6 +24,7 @@ Every topic folder should contain these files in this order:
 - facts that must stay exact
 - weak claims to avoid
 - modern analogy options
+- for structure-heavy topics: actors, mechanism, response, human cost, interested-party claims, unresolved choice
 
 ## `03_outline.md`
 

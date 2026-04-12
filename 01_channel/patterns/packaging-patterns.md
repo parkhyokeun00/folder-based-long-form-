@@ -18,6 +18,11 @@ This page stores reusable packaging rules for thumbnails, titles, and upload-fac
 - the thumbnail, first image, and first 30 seconds must all point at the same promise
 - if they point at different promises, retention collapses early
 
+## Length guardrail
+
+- strong packaging should sharpen entry, not force early truncation of the body
+- if the hook is sharp but the structure feels thin, fix coverage before cutting length
+
 ## Warning
 
 - do not push stereotype packaging farther than the script can responsibly support
@@ -26,3 +31,4 @@ This page stores reusable packaging rules for thumbnails, titles, and upload-fac
 ## Provenance
 
 - seeded during benchmark translation and preserved as engine law during bootstrap cleanup
+- expanded by the `랩그로운-다이아몬드의-역습` results-clone promotion pass

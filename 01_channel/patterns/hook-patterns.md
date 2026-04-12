@@ -27,6 +27,13 @@ This page stores reusable opening patterns that should survive beyond any single
 - `친절한데 서늘하죠`
 - `여기서 핵심은 따로 있습니다`
 
+## Pattern 5. Household choice versus system shock
+
+- for luxury, commodity, energy, and supply-chain topics, start with a personal or household choice
+- then reveal the larger system, state, or labor shock created by that same choice
+- good default move: private purchase -> hidden bill -> distant consequence
+
 ## Provenance
 
 - seeded during benchmark translation and preserved as engine law during bootstrap cleanup
+- expanded by the `랩그로운-다이아몬드의-역습` results-clone promotion pass

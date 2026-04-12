@@ -90,7 +90,7 @@ to decide what may return from a result workspace to the engine.
 
 - `00_topic-angle.md`: why this topic matters now, for whom, and through what emotional angle
 - `01_thumbnail-hook.md`: click promise, first-image promise, and first-30-seconds proof
-- `02_evidence-map.md`: cases, facts, quotes, and uncertainty notes
+- `02_evidence-map.md`: cases, facts, quotes, uncertainty notes, and interested-party claim markers
 - `03_outline.md`: chapter flow
 - `04_segment-map.md`: segment-by-segment pressure, question, and payoff
 - `05_script-draft.md`: full narration with room for revision
@@ -119,6 +119,7 @@ to decide what may return from a result workspace to the engine.
 - complete `04_segment-map.md`
 - confirm each middle segment either escalates, reframes, or reveals
 - if the topic is cultural, behavioral, or historical, map origin -> spread -> modern form instead of stopping at background explanation
+- if the topic is economy, industry, state, supply-chain, or policy driven, make sure the evidence map covers actors, mechanism, response, human cost, interested-party claims, and an unresolved choice
 
 ### Script-close
 
@@ -127,6 +128,9 @@ to decide what may return from a result workspace to the engine.
 - remove planning labels and evidence tables from the final file
 - make sure the host voice is audible, not only the research summary
 - when the topic supports it, front-load a dense example cluster before the first long explanation block
+- for structure-heavy topics, trim repetition only after coverage is complete
+- do not let interested-party framing read like neutral fact in the narration
+- when the topic makes a real tradeoff visible, the ending should name a concrete question, tradeoff, or writer judgment
 
 ### Publish-close
 
@@ -168,5 +172,8 @@ When files disagree, use this order:
 - Do not finalize an episode that lacks a backward callback or forward seed when a connection is available.
 - Do not let the script sound like notes being read aloud.
 - Do not stop a culture script at origin alone; bring it back to how the pattern lives now.
+- Do not quote interested-party framing as if it were neutral fact.
+- Do not compress a structure-heavy topic before its core layers are present.
+- Do not end on mood alone when the topic demands a judgment or a concrete question.
 - Do not promote raw experiment clutter into the engine.
 - Do not promote topic-specific success as universal law without abstraction.

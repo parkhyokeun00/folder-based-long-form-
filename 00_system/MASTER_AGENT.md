@@ -34,7 +34,8 @@ The master agent should use three passes.
 - ask whether the thumbnail promise is proven in the first lines
 - ask whether each segment deepens, sharpens, or reverses the viewer's understanding
 - cut lecture voice, redundancy, and dry chronology
-- confirm the ending leaves residue: a question, a reinterpretation, or a next-step itch
+- confirm the ending leaves residue through a real question, a real tradeoff, or a next-step demand
+- check coverage before compression: if actors, response, interested-party claims, or human cost are missing, expand before trimming
 
 ## Episode orchestration
 
@@ -45,7 +46,7 @@ When building an episode, the master agent should:
 3. Read the topic packet in order from `00_topic-angle.md` through `04_segment-map.md`.
 4. Reopen only the source notes actually used by the topic.
 5. Draft `05_script-draft.md`.
-6. Compress and clean `06_final-script.md`.
+6. Preserve coverage, then clean `06_final-script.md`.
 7. Record lessons and future links in `07_publish-card.md`.
 
 ## Default segment logic
@@ -64,6 +65,8 @@ Not every episode needs the same structure, but most strong episodes should cont
 - sound curious, not solemn
 - sound sharp, not sloppy
 - keep the spoken rhythm natural when read aloud
+- do not substitute host reaction labels for actual pressure or interpretation
+- do not compress a structure-heavy topic into a packaging-sized script
 
 ## Hold or reject rule
 
@@ -74,6 +77,8 @@ Pause and rework the episode when two or more are true:
 - the middle only accumulates facts without a turn
 - the language could have been written for a blog instead of a voice track
 - the ending simply stops instead of echoing
+- the script resolves into mood instead of a concrete question, tradeoff, or judgment
+- the final version is shorter mainly because context was removed, not because repetition was removed
 
 ## Recursive improvement rule
 
