@@ -11,6 +11,7 @@ _engine_reviews/
   BENCHMARK_TRANSLATION.md
   MASTER_AGENT.md
   NEW_CHANNEL_BOOTSTRAP.md
+  OPERATING_RULES_REBOOT.md
   PROMOTION_FILTER.md
   RECURSIVE_ENGINE_PROTOCOL.md
   RESULTS_REPOSITORY_CONTRACT.md
@@ -40,7 +41,6 @@ _engine_reviews/
   canon-integrated/
   deprecated/
 03_topics/
-images/
 tools/
   bootstrap_episode.py
 
@@ -58,7 +58,6 @@ F:\CODEX-PJT\long_form-results/
 - `01_channel/`: live channel source-of-truth plus promoted wiki pages
 - `02_sources/`: research intake and trust separation
 - `03_topics/`: one episode candidate per folder
-- `images/`: prompt and image asset workspace
 - `tools/`: small repeatable utilities
 - `long_form-results/`: result clones and per-run recursive reviews
 

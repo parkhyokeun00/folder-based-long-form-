@@ -8,6 +8,7 @@ The results repository is not the engine.
 It is the experiment graveyard, evidence locker, and review archive.
 
 Each folder represents a full run or a significant experiment.
+These folders are disposable by design.
 
 ## Folder rule
 
@@ -56,6 +57,7 @@ Recommended review names:
 
 The experiment may stop evolving.
 Its review remains valuable.
+If the folder later disappears, the engine should still be complete without it.
 
 ## Promotion boundary
 
@@ -63,3 +65,4 @@ Do not treat a result folder as the new source-of-truth just because its output 
 
 Only promoted rules become engine law.
 Everything else stays a local experiment.
+Never treat an old clone as part of the engine's active memory.

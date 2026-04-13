@@ -86,10 +86,14 @@ If duplicated, merge instead of adding a second version.
 
 When promoting, record:
 
-- source result workspace
+- source run label
 - source review file
 - promoted rule
 - target engine page
 - confidence
 
 Store this in `01_channel/indexes/log.md` and, when needed, an engine-side audit note under `_engine_reviews/`.
+
+If the result clone is expected to disappear, the engine-side audit note becomes the canonical provenance record.
+
+Do not rely on the original clone staying present after promotion.

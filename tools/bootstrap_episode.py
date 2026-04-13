@@ -31,6 +31,10 @@ FILE_TEMPLATES = {
 """,
     "01_thumbnail-hook.md": """# Thumbnail And Hook
 
+## Late-stage packaging
+
+- fill this after the draft has a stable spine
+
 ## Thumbnail text candidates
 
 - option-1:
@@ -45,9 +49,9 @@ FILE_TEMPLATES = {
 
 - the strange case, line, or contradiction that starts the video:
 
-## First 30 seconds
+## Opening promise
 
-- how the script proves the click promise immediately:
+- what the finished script can genuinely promise:
 """,
     "02_evidence-map.md": """# Evidence Map
 
@@ -81,6 +85,10 @@ FILE_TEMPLATES = {
 - anomaly or case:
 - real question:
 
+## Anchor case
+
+- what carries the piece emotionally or conceptually:
+
 ## Middle turn 1
 
 - what the viewer learns first:
@@ -88,6 +96,10 @@ FILE_TEMPLATES = {
 ## Middle turn 2
 
 - what complicates or reverses the first understanding:
+
+## Modern re-entry
+
+- what returns the topic to now:
 
 ## Ending
 
@@ -134,7 +146,7 @@ FILE_TEMPLATES = {
 
 Write the spoken draft here.
 Keep it conversational.
-Let the first minute prove the thumbnail promise.
+Let the draft discover its structure before you compress anything.
 """,
     "06_final-script.md": """# Final Script
 

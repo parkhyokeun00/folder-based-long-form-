@@ -18,7 +18,6 @@ The goal is to build a repeatable channel engine that:
 - `01_channel/`: live channel source-of-truth and promoted channel wiki
 - `02_sources/`: raw, parsed, adopted, and deprecated research
 - `03_topics/`: one folder per episode candidate
-- `images/`: image prompts and visual assets
 - `tools/`: small utilities such as episode bootstrapping
 
 Sibling repository:
@@ -31,8 +30,8 @@ Sibling repository:
 2. Lock the channel promise and voice in `01_channel/channel-core.md`.
 3. Capture and normalize research in `02_sources/`.
 4. Create one topic folder in `03_topics/` or inside a result clone.
-5. Lock thumbnail and hook before writing the full narration.
-6. Draft by segment, then compress into spoken Korean.
+5. Build the case field before deciding packaging.
+6. Draft long enough to discover the real spine, then cut repetition.
 7. Write a recursive review at the end of the run.
 8. Promote only generalized, reusable rules back into the engine.
 
@@ -46,9 +45,12 @@ It also follows the recursive engine model already proven in `novel`:
 - experiments are disposable
 - reviews are valuable
 - promotions make the engine smarter
+- clones are not long-term references
+- only extracted engine law survives
 
 ## First read
 
+- `00_system/OPERATING_RULES_REBOOT.md`
 - `00_system/BENCHMARK_TRANSLATION.md`
 - `00_system/RECURSIVE_ENGINE_PROTOCOL.md`
 - `00_system/VOICE_CONTRACT.md`

@@ -2,12 +2,12 @@
 
 ## Source
 
-- source workspace: `F:\CODEX-PJT\long_form-results\랩그로운-다이아몬드의-역습`
+- source run: `lab-grown-diamond results clone`
 - source reviews:
 - `000_CHANNEL_RECURSIVE_REVIEW.md`
 - `000_NEXT_GENERATION_REVIEW.md`
 - supporting artifacts:
-- `03_topics/랩그로운-다이아몬드의-역습/06_final-script.md`
+- finished topic packet and final script from the result clone
 - `00_system/MASTER_AGENT.md` diff inside the result clone
 - `01_channel/patterns/retention-patterns.md` diff inside the result clone
 - `01_channel/patterns/voice-patterns.md` diff inside the result clone
@@ -76,3 +76,4 @@
 
 - This pass promotes rules, not the clone's modified `channel-core.md`
 - This pass keeps the result workspace as evidence and does not rewrite it as engine law
+- This engine-side note is the stable provenance summary even if the original result clone later disappears

@@ -4,36 +4,37 @@ Every topic folder should contain these files in this order:
 
 ## `00_topic-angle.md`
 
-- core question
-- click reason
-- emotional reason
+- real question
+- why the topic matters
+- why this is not just trivia
 - viewer starting assumption
 - changed viewer state at the end
 
 ## `01_thumbnail-hook.md`
 
-- thumbnail text candidates
-- first-image promise
-- opening anomaly or anecdote
-- first-30-seconds proof
+- late-stage packaging candidates
+- title options after the draft is stable
+- thumbnail language options
+- opening promise that the finished script can actually keep
 
 ## `02_evidence-map.md`
 
-- strongest case
+- anchor case
 - supporting cases
+- what each case proves
 - facts that must stay exact
 - weak claims to avoid
-- modern analogy options
+- open questions and uncertainty notes
 - for structure-heavy topics: actors, mechanism, response, human cost, interested-party claims, unresolved choice
 
 ## `03_outline.md`
 
-- opening
-- example cluster
-- middle turn 1
-- middle turn 2
+- opening tension
+- anchor case
+- widening turn
+- contrast or counter-example
 - modern re-entry
-- ending reinterpretation
+- ending
 
 ## `04_segment-map.md`
 
@@ -41,13 +42,13 @@ Every topic folder should contain these files in this order:
 - tension question
 - proof used
 - transition line
-- payoff type
 - host reaction line when useful
 
 ## `05_script-draft.md`
 
 - full spoken draft
-- may contain revision notes
+- may remain exploratory
+- may discover structure rather than merely execute it
 
 ## `06_final-script.md`
 
@@ -58,7 +59,7 @@ Every topic folder should contain these files in this order:
 
 ## `07_publish-card.md`
 
-- packaging summary
+- final packaging summary
 - callback to older episode
 - sequel seed
 - retention risk guess

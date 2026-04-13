@@ -2,7 +2,8 @@
 
 This workspace uses a topic-folder model and a layered long-form channel operating system.
 
-The purpose is to keep episodes compelling, consistent, and reusable across time.
+The purpose is not to produce scripts quickly.
+The purpose is to produce episodes that are researched enough to earn their structure.
 
 It now also operates as a recursive engine:
 
@@ -10,13 +11,17 @@ It now also operates as a recursive engine:
 - a sibling results repo stores per-run experiments
 - promotions move value from experiments back into the engine
 
+When this file conflicts with older workflow assumptions, follow:
+
+- `00_system/OPERATING_RULES_REBOOT.md`
+
 ## Core model
 
 - One topic folder equals one episode candidate.
-- One episode is built from segments, not from a flat essay.
-- The thumbnail and hook are locked before the full narration is accepted.
+- One episode is built from cases, pressure, and interpretation, not from packaging alone.
+- Packaging is late-stage and provisional until the script spine is stable.
 - Reusable knowledge lives at the channel layer so later episodes can call back to earlier ones.
-- Research does not become script truth until it is selected, framed, and simplified for viewers.
+- Research does not become script truth until it is selected, framed, and tested against competing explanations.
 
 ## Channel contract
 
@@ -50,9 +55,9 @@ The channel wiki should then distribute reusable learnings into:
 
 `02_sources/` separates intake stages:
 
-- `raw/`: captured but untouched material
-- `parsed/`: normalized notes with claims separated from noise
-- `canon-integrated/`: claims actively used by the channel system
+- `raw/`: captured material and first-pass notes
+- `parsed/`: case roles, tensions, and open questions
+- `canon-integrated/`: claims solid enough to build with
 - `deprecated/`: rejected, outdated, or misleading material
 
 Research only becomes episode truth after it is selected into `02_evidence-map.md`.
@@ -88,47 +93,49 @@ to decide what may return from a result workspace to the engine.
 
 ## File roles
 
-- `00_topic-angle.md`: why this topic matters now, for whom, and through what emotional angle
-- `01_thumbnail-hook.md`: click promise, first-image promise, and first-30-seconds proof
-- `02_evidence-map.md`: cases, facts, quotes, uncertainty notes, and interested-party claim markers
-- `03_outline.md`: chapter flow
-- `04_segment-map.md`: segment-by-segment pressure, question, and payoff
-- `05_script-draft.md`: full narration with room for revision
+- `00_topic-angle.md`: real question, stakes, and why the topic matters
+- `01_thumbnail-hook.md`: late-stage packaging memo; provisional thumbnail/title ideas after the draft earns them
+- `02_evidence-map.md`: cases, facts, uncertainty notes, and what each case proves
+- `03_outline.md`: chapter flow after the case field is known
+- `04_segment-map.md`: segment-by-segment role, proof, and tension
+- `05_script-draft.md`: exploratory full narration with room to discover structure
 - `06_final-script.md`: final spoken script only
-- `07_publish-card.md`: callback plan, packaging notes, and postmortem
+- `07_publish-card.md`: packaging summary, sequel notes, and postmortem
 
 ## Operating cadence
 
 ### Research-close
 
-- capture sources in `02_sources/`
-- normalize reusable material
-- separate adopted claims from interesting noise
-
-### Angle-close
-
-- complete `00_topic-angle.md`
-- reject the topic if the promise is generic, purely academic, or emotionally thin
-- complete `01_thumbnail-hook.md`
-- do not continue if the opening image is weak
+- gather more than one explanatory source
+- collect concrete cases before abstract framing
+- distinguish primary fact, secondary interpretation, and your own hypothesis
+- note what each case uniquely contributes
 
 ### Build-close
 
+- complete `00_topic-angle.md`
 - complete `02_evidence-map.md`
-- complete `03_outline.md`
-- complete `04_segment-map.md`
-- confirm each middle segment either escalates, reframes, or reveals
-- if the topic is cultural, behavioral, or historical, map origin -> spread -> modern form instead of stopping at background explanation
+- do not freeze packaging yet
+- confirm the governing claim is narrower than the total material
+- confirm no two major cases are doing the same argumentative job
 - if the topic is economy, industry, state, supply-chain, or policy driven, make sure the evidence map covers actors, mechanism, response, human cost, interested-party claims, and an unresolved choice
 
-### Script-close
+### Draft-close
 
-- draft `05_script-draft.md`
-- compress into `06_final-script.md`
+- complete `03_outline.md`
+- complete `04_segment-map.md`
+- write `05_script-draft.md`
+- allow the draft to become longer if the material is still thinly covered
+- cut repeated conclusions only after the real structure is visible
+- if the topic is cultural, behavioral, or historical, bring the topic from lived use or present anomaly into origin, then back into modern meaning
+
+### Final-close
+
+- write `06_final-script.md`
 - remove planning labels and evidence tables from the final file
-- make sure the host voice is audible, not only the research summary
-- when the topic supports it, front-load a dense example cluster before the first long explanation block
-- for structure-heavy topics, trim repetition only after coverage is complete
+- make sure the final script is not simply a compressed copy of the draft
+- make sure the ending happens once
+- only then write `01_thumbnail-hook.md` and `07_publish-card.md`
 - do not let interested-party framing read like neutral fact in the narration
 - when the topic makes a real tradeoff visible, the ending should name a concrete question, tradeoff, or writer judgment
 
@@ -158,22 +165,26 @@ to decide what may return from a result workspace to the engine.
 When files disagree, use this order:
 
 1. verified research in `02_sources/canon-integrated/`
-2. channel rules in `01_channel/channel-core.md`
+2. operating law in `00_system/`
 3. `02_evidence-map.md`
 4. `03_outline.md` and `04_segment-map.md`
 5. `05_script-draft.md`
 6. `06_final-script.md`
-7. packaging guesses in `07_publish-card.md`
+7. packaging notes in `01_thumbnail-hook.md` and `07_publish-card.md`
 
 ## Hard gates
 
-- Do not write the full draft before the thumbnail and hook are locked.
+- Do not lock title or thumbnail before the cases are real.
+- Do not build from one explainer article alone.
+- Do not use multiple cases that only restate the same conclusion.
 - Do not keep abstract terms that have not been translated into viewer language.
 - Do not finalize an episode that lacks a backward callback or forward seed when a connection is available.
 - Do not let the script sound like notes being read aloud.
 - Do not stop a culture script at origin alone; bring it back to how the pattern lives now.
 - Do not quote interested-party framing as if it were neutral fact.
-- Do not compress a structure-heavy topic before its core layers are present.
+- Do not compress because the material is under-researched.
 - Do not end on mood alone when the topic demands a judgment or a concrete question.
+- Do not end three times.
+- Do not let an abstract phrase cover missing evidence.
 - Do not promote raw experiment clutter into the engine.
 - Do not promote topic-specific success as universal law without abstraction.

@@ -59,6 +59,7 @@ When a lesson becomes repeatable, store it here.
 - treat examples as entertainment and evidence at the same time
 - every long middle section should answer `why was this useful then`
 - every ending should answer `what form does this take now`
+- packaging follows evidence; it does not replace evidence
 
 ## Recursive engine rules
 

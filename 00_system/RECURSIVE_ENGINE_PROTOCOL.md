@@ -11,6 +11,8 @@ It is where stable learnings are promoted.
 
 The actual episode experiments, drafts, and temporary overgrowth belong in sibling result workspaces.
 Only generalized, reusable upgrades come back into the engine.
+Result clones are disposable after extraction.
+The engine must not depend on them as living references.
 
 ## Three layers
 
@@ -78,6 +80,10 @@ Use the narrowest useful destination.
 - Do not overwrite engine pages from inside a result clone.
 - Do not promote frustration text verbatim; convert it into a reusable affirmative rule first.
 - Do not let one strong experiment rewrite the engine if the lesson is still narrow or unstable.
+- When a result clone is temporary, do not make engine provenance depend on that folder path staying alive.
+- In that case, record a stable engine-side promotion note and use a run label instead of a hard clone path in engine logs.
+- After promotion, do not keep consulting the clone as if it were part of the engine's memory.
+- If a lesson matters, rewrite it into engine law here; otherwise let the clone disappear.
 
 ## Query behavior
 
