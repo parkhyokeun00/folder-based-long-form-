@@ -69,6 +69,7 @@ Use the narrowest useful destination.
 - pacing and retention discoveries: `01_channel/patterns/retention-patterns.md`
 - title and thumbnail discoveries: `01_channel/patterns/packaging-patterns.md`
 - narration discoveries: `01_channel/patterns/voice-patterns.md`
+- evidence and source-ratification discoveries: `01_channel/patterns/research-patterns.md`
 - callback and sequel discoveries: `01_channel/network/episode-network.md`
 - audit or promotion pass records: `_engine_reviews/`
 - navigation and chronology: `01_channel/indexes/index.md`, `01_channel/indexes/log.md`

@@ -55,7 +55,14 @@ FILE_TEMPLATES = {
 """,
     "02_evidence-map.md": """# Evidence Map
 
-## Core case
+## Reference set actually used
+
+- research note:
+- source-1:
+- source-2:
+- source-3:
+
+## Anchor case
 
 - strongest case:
 
@@ -64,6 +71,26 @@ FILE_TEMPLATES = {
 - proof-1:
 - proof-2:
 - proof-3:
+
+## Source ladder
+
+- tier-1:
+- tier-2:
+- tier-3:
+
+## Adopted claims safe to narrate
+
+- claim-1:
+
+## Rejected or downgraded claims
+
+- claim-1:
+
+## Chronology, scope, and mechanism checks
+
+- chronology risk:
+- scope risk:
+- mechanism risk:
 
 ## Exact facts that must stay exact
 

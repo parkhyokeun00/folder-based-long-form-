@@ -16,7 +16,7 @@ The goal is to build a repeatable channel engine that:
 - `00_system/`: rules, contracts, benchmark translation, and templates
 - `_engine_reviews/`: engine-side promotion passes, lint notes, and recursive audits
 - `01_channel/`: live channel source-of-truth and promoted channel wiki
-- `02_sources/`: raw, parsed, adopted, and deprecated research
+- `02_sources/`: raw intake, research ratification, parsed extracts, canon-integrated notes, and deprecated material
 - `03_topics/`: one folder per episode candidate
 - `tools/`: small utilities such as episode bootstrapping
 
@@ -28,7 +28,7 @@ Sibling repository:
 
 1. Treat `long_form` as the engine repo and `long_form-results` as the experiment repo.
 2. Lock the channel promise and voice in `01_channel/channel-core.md`.
-3. Capture and normalize research in `02_sources/`.
+3. Capture, verify, and ratify research in `02_sources/` before it becomes script truth.
 4. Create one topic folder in `03_topics/` or inside a result clone.
 5. Build the case field before deciding packaging.
 6. Draft long enough to discover the real spine, then cut repetition.
@@ -54,6 +54,7 @@ It also follows the recursive engine model already proven in `novel`:
 - `00_system/BENCHMARK_TRANSLATION.md`
 - `00_system/RECURSIVE_ENGINE_PROTOCOL.md`
 - `00_system/VOICE_CONTRACT.md`
+- `00_system/SOURCE_INGEST_PROTOCOL.md`
 - `00_system/NEW_CHANNEL_BOOTSTRAP.md`
 
 ## First command

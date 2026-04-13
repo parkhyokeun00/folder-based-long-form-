@@ -11,6 +11,7 @@ This is the catalog for the live long-form engine.
 - [hook-patterns.md](../patterns/hook-patterns.md): openings, anomaly starts, example clusters, first-minute proof
 - [retention-patterns.md](../patterns/retention-patterns.md): middle-turn design, sag prevention, modern re-entry, ending residue
 - [packaging-patterns.md](../patterns/packaging-patterns.md): thumbnail, title, promise alignment, upload-facing packaging rules
+- [research-patterns.md](../patterns/research-patterns.md): source ratification, myth-checking, trust ladder, rejected-claim handling
 - [voice-patterns.md](../patterns/voice-patterns.md): narrator character, question tags, plain-language conversion, spoken rhythm
 
 ## Network

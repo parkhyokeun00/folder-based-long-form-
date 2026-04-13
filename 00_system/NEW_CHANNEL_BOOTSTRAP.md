@@ -16,20 +16,23 @@ Its job is to stop random rebuilding and force a sharper restart.
 1. Read `00_system/OPERATING_RULES_REBOOT.md`.
 2. Read `00_system/BENCHMARK_TRANSLATION.md`.
 3. Read `00_system/VOICE_CONTRACT.md`.
-4. Read `00_system/RECURSIVE_ENGINE_PROTOCOL.md`.
-5. Fill the empty sections in `01_channel/channel-core.md`.
-6. Define your opener slot, closer slot, and three topic lanes.
-7. Define why a viewer clicks and why a viewer leaves.
-8. Run `python tools/bootstrap_episode.py "<topic>"`.
-9. Fill the topic packet in order.
-10. When the run is over, write a recursive review and promote only accepted rules back into the engine.
+4. Read `00_system/SOURCE_INGEST_PROTOCOL.md`.
+5. Read `00_system/RECURSIVE_ENGINE_PROTOCOL.md`.
+6. Fill the empty sections in `01_channel/channel-core.md`.
+7. Define your opener slot, closer slot, and three topic lanes.
+8. Define why a viewer clicks and why a viewer leaves.
+9. Run `python tools/bootstrap_episode.py "<topic>"`.
+10. Fill the topic packet in order.
+11. When the run is over, write a recursive review and promote only accepted rules back into the engine.
 
 ## Hard gate
 
 Do not write `06_final-script.md` until all are true:
 
 - `00_topic-angle.md` has a real emotional angle
+- if the topic depends on disputed history, science, or a viral claim, a research note exists in `02_sources/research/`
 - `02_evidence-map.md` separates strong proof from weak proof
+- `02_evidence-map.md` separates adopted claims from rejected or downgraded claims
 - `02_evidence-map.md` shows what each major case uniquely proves
 - `03_outline.md` has at least one turn, not just accumulation
 - `04_segment-map.md` shows how the middle avoids flatness

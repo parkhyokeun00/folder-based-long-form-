@@ -16,6 +16,7 @@ _engine_reviews/
   RECURSIVE_ENGINE_PROTOCOL.md
   RESULTS_REPOSITORY_CONTRACT.md
   SCHEMA.md
+  SOURCE_INGEST_PROTOCOL.md
   VOICE_CONTRACT.md
   WORKSPACE_BLUEPRINT.md
   templates/
@@ -33,13 +34,16 @@ _engine_reviews/
   patterns/
     hook-patterns.md
     packaging-patterns.md
+    research-patterns.md
     retention-patterns.md
     voice-patterns.md
 02_sources/
   raw/
+  research/
   parsed/
   canon-integrated/
   deprecated/
+  README.md
 03_topics/
 tools/
   bootstrap_episode.py
@@ -56,7 +60,7 @@ F:\CODEX-PJT\long_form-results/
 - `_engine_reviews/`: engine-side audits and promotion passes
 - `00_system/`: stable operating law
 - `01_channel/`: live channel source-of-truth plus promoted wiki pages
-- `02_sources/`: research intake and trust separation
+- `02_sources/`: research intake, verification, and claim ratification
 - `03_topics/`: one episode candidate per folder
 - `tools/`: small repeatable utilities
 - `long_form-results/`: result clones and per-run recursive reviews
@@ -68,7 +72,7 @@ F:\CODEX-PJT\long_form-results/
 3. create the system documents
 4. create `01_channel/channel-core.md`
 5. create channel wiki index and pattern pages
-6. create the `02_sources/` intake partitions
+6. create the `02_sources/` intake partitions and source README
 7. create `03_topics/`
 8. create the sibling results repository and review template
 9. add the episode bootstrap tool

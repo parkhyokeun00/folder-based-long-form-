@@ -19,9 +19,14 @@ Every topic folder should contain these files in this order:
 
 ## `02_evidence-map.md`
 
+- reference set actually used
 - anchor case
 - supporting cases
 - what each case proves
+- source ladder
+- adopted claims safe to narrate
+- rejected or downgraded claims
+- chronology, scope, and mechanism checks when the topic is disputed
 - facts that must stay exact
 - weak claims to avoid
 - open questions and uncertainty notes

@@ -27,3 +27,11 @@
 - promoted rule set: research-before-packaging, anchor-case hierarchy, adjacent-concept contrast sets, present-day anomaly before origin, end-once discipline
 - target pages: `00_system/OPERATING_RULES_REBOOT.md`, `00_system/SCHEMA.md`, `00_system/NEW_CHANNEL_BOOTSTRAP.md`, `00_system/WORKSPACE_BLUEPRINT.md`, `00_system/templates/episode/episode-packet.md`, `01_channel/channel-core.md`, `README.md`, `tools/bootstrap_episode.py`
 - confidence: high
+
+## [2026-04-13] promotion-pass | research-ratification upgrade from cat-plague myth run
+
+- source run: `cat-plague myth research run`
+- source artifacts: session process record, research note, manuscript draft
+- promoted rule set: research-note-first ratification for disputed topics, source ladder before script confidence, adopted-versus-rejected claim tracking, chronology-scope-mechanism myth checks, main-agent final verification
+- target pages: `00_system/SOURCE_INGEST_PROTOCOL.md`, `00_system/MASTER_AGENT.md`, `00_system/SCHEMA.md`, `00_system/OPERATING_RULES_REBOOT.md`, `00_system/NEW_CHANNEL_BOOTSTRAP.md`, `00_system/WORKSPACE_BLUEPRINT.md`, `00_system/templates/episode/episode-packet.md`, `01_channel/channel-core.md`, `01_channel/patterns/research-patterns.md`, `01_channel/indexes/index.md`, `README.md`, `tools/bootstrap_episode.py`
+- confidence: high

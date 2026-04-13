@@ -60,6 +60,8 @@ When a lesson becomes repeatable, store it here.
 - every long middle section should answer `why was this useful then`
 - every ending should answer `what form does this take now`
 - packaging follows evidence; it does not replace evidence
+- disputed, scientific, or viral topics should be ratified in a research note before the script spine hardens
+- for myth-check topics, separate symbol, local case, timeline, and mechanism before narrating a causal chain
 
 ## Recursive engine rules
 

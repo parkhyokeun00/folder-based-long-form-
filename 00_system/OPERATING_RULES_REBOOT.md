@@ -69,8 +69,14 @@ This reboot rejects those defaults.
 ## Source discipline
 
 - Keep `raw`, `parsed`, and `canon-integrated` notes distinct.
+- Keep `research/` as the ratification layer for disputed, historical, scientific, or viral claims.
+- For myth-check, science, and internet-history topics, write the research note before the outline hardens.
+- Rank the source set by authority before borrowing confidence from it.
+- Record adopted claims, rejected claims, and uncertainty instead of leaving them implicit.
 - Mark uncertain expansion paths as hypotheses, not facts.
 - Do not borrow authority from a source that did not actually prove your claim.
+- Test chronology, scope, and mechanism before using a neat domino-chain explanation.
+- Let weak but popular claims survive only as rejected or downgraded notes, not as the script spine.
 - Use secondary commentary to widen context, not to replace evidence.
 
 ## Review pass
@@ -80,6 +86,8 @@ Before finalizing, check:
 - what is the single governing claim
 - which case is the anchor case
 - what each supporting case uniquely contributes
+- whether the source ladder is strong enough for the confidence level of the narration
+- which tempting claims were explicitly downgraded or rejected
 - whether the ending is already complete one paragraph earlier
 - whether any abstract phrase is covering missing research
 
